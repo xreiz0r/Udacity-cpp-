@@ -1,7 +1,7 @@
 # Udacity-NanoDgree
 
 Course 1: C++ Foundations
-OpenStreetMap + IO2D + A*
+(OpenStreetMap + IO2D + A*)
 
 
 Course 2: Object-Oriented Programming
