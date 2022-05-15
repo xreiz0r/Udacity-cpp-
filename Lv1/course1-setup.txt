@@ -1,4 +1,19 @@
 
+############################################
+		RESOURCES
+#############################################
+
+
+https://github.com/udacity/CppND-Route-Planning-Project/issues/1
+
+https://github.com/cpp-io2d/P0267_RefImpl/blob/master/BUILDING.md
+
+https://github.com/MrNullPointer/Route_Planner_using_io2D/blob/master/CppND-Route-Planning-Project/README.md
+
+https://yangfan.github.io/projects/Cpp/astar-planning/
+
+https://github.com/Agnieszka1994/OpenStreetMap-Route-Planner
+
 
 
 
@@ -29,7 +44,7 @@ sudo apt install libgraphicsmagick1-dev
 
 
 //Download main /routeplanner/ program
-git clone https://github.com/MrNullPointer/Route_Planner_using_io2D.git
+git clone https://github.com/Agnieszka1994/OpenStreetMap-Route-Planner.git
 
 
 //Download yangfan for /thirdparty/ file
@@ -46,10 +61,6 @@ git clone https://github.com/yangfan/Astar-Route-Planning.git --recurse-submodul
 to Route_Planner_using_io2d/CppND-Route-Planning-Project/build/
 
 >cd to /build/ >sudo cmake .. or sudo cmake .
-
-
-
-
 
 >cd to PO267/ >mkdir Debug/ and cd to Debug/ >cmake --config Debug "-DCMAKE_BUILD_TYPE=Debug" .. >sudo cmake --build . or sudo cmake --build ..
 
@@ -69,23 +80,6 @@ to /CppND-Route-Planning-Project/
  
 
 
-############################################
-		RESOURCES
-#############################################
-
-
-https://github.com/udacity/CppND-Route-Planning-Project/issues/1
-
-https://github.com/cpp-io2d/P0267_RefImpl/blob/master/BUILDING.md
-
-https://github.com/MrNullPointer/Route_Planner_using_io2D/blob/master/CppND-Route-Planning-Project/README.md
-
-https://yangfan.github.io/projects/Cpp/astar-planning/
-
-https://github.com/Agnieszka1994/OpenStreetMap-Route-Planner
-
-
-
 ##################################################
 			RUN
 #################################################
@@ -97,11 +91,18 @@ https://github.com/Agnieszka1994/OpenStreetMap-Route-Planner
 >./OSM_A_star_search
 
 
-//Select an area from OpenStreetMap and click "Export" to download .osm file
+//Select an area from OpenStreetMap website and click "Export" to download .osm file
 
 >./OSM_A_star_search -f ../<your_osm_file.osm>
 
+//Enter Starting and ending x/y coordinates
+0-99 x
+0-99 y
+
+
+#####################################################################################
+					END
+#####################################################################################
 
 
 
-#################################################################
