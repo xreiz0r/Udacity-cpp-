@@ -16,6 +16,10 @@ HoistExploit company
 Internet = USA, Japan, Netherlands and Sweden
 Cold war model MAD: Mutually Assured Destruction
 
+[] Amdahl's law asserts that there is always a serial part to a parallel program that must be 
+executed sequentially however Gustafson & Barsis have argued for a flaw in ahmdahl's law
+dl.acm.org/doi/10.1145/42411.42415
+
 [] 1984 Universal Declaration of Human Rights
 [] 1966 International Covenant on Civil and Political rights
 
