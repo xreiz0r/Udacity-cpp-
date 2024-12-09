@@ -30,6 +30,44 @@ PERSON
  
  Stat
  -Normal Error Distribution Curve
+ -Bayes
+ -Factoring
+ -Primality testing
+
+
+Copacobana Whitepaper 
+DarkFirmware: systematic approach Whitepaper
+
+
+[] C is most affective with recursive functions 
+[] XOr is the fastest encipherment plus OSINT
+[] infeasable ammount of operations is defined as 2¹²⁸
+[] device drivers port and microcontrollers
+[] Finite fields arithmetic handles pseudo-random generators
+[] ACAD: Keyboard Book 7 with Digital Content: Computer Science with Application Software (4th Edition) [ISBN 9789697341887]
+[] IMSI mobile and pinoutguide
+[] Vulnerability databases and hackdbox, UEFI vulns
+[] printers have their own language
+
+
+System capabilities
+// check  active and uptime on processes
+// create drivers
+// create hidden files
+// shred memory
+// find the location of a command
+// trace logs associated to a file/process
+// create link copy or normal copy
+// schedule command
+// analyse Boot with exec times
+// showing every hop within the network as well as its latency speed
+// create virtual drive for faster exec
+// read deleted files based on offset
+// ftp to a website
+
+
+
+
  
  
  
