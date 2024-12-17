@@ -35,11 +35,13 @@ PERSON
  -Primality testing
 
 
-Copacobana Whitepaper 
-DarkFirmware: systematic approach Whitepaper
-
-
-[] C is most affective with recursive functions 
+[] Copacobana Whitepaper 
+[] DarkFirmware: systematic approach Whitepaper
+[] Codecademy and rent GPU as a service
+[] Functions can be measured in seconds or clockcycles
+[] C is most affective with recursive functions + dynamically allocated memory
+[] Recursion's use lies in permutations of an indefinite total ammount
+[] C List types: Linked-list, Binary trees, Binary sort, Stack sort, Shuffle-sort, Hanoi, Int partition, Maze-run, Subsetsum
 [] XOr is the fastest encipherment plus OSINT
 [] infeasable ammount of operations is defined as 2¹²⁸
 [] device drivers port and microcontrollers
@@ -47,23 +49,27 @@ DarkFirmware: systematic approach Whitepaper
 [] ACAD: Keyboard Book 7 with Digital Content: Computer Science with Application Software (4th Edition) [ISBN 9789697341887]
 [] IMSI mobile and pinoutguide
 [] Vulnerability databases and hackdbox, UEFI vulns
-[] printers have their own language
+[] Printers have their own language
 
 
 System capabilities
-// check  active and uptime on processes
-// create drivers
+// check active and inactive processes
+// check uptime of processes
+// check available ports and unwritten caches
+// create or check for active drivers/modules
 // create hidden files
 // shred memory
 // find the location of a command
 // trace logs associated to a file/process
 // create link copy or normal copy
-// schedule command
+// schedule command's start time
+// schedule a command's timeout
 // analyse Boot with exec times
-// showing every hop within the network as well as its latency speed
-// create virtual drive for faster exec
+// create mountable virtual drive for faster exec
 // read deleted files based on offset
 // ftp to a website
+// show every hop within network and its latency speed
+
 
 
 
