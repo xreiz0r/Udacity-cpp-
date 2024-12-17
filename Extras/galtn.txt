@@ -1,6 +1,6 @@
 /*
 GALT0N
-
+fble, idio, imbc, morn
 400 dumms out of 10000
 30% is not so much
 280/10000 dumms
