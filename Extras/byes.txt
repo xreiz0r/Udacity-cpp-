@@ -25,8 +25,9 @@ cout << "\t"<< x << "  ("<< x*100 << "%)" << endl;
  return 0;
 }
 
+P(B|E) = P(E|B) * P(B)/P(E)
 /*?? Is that PERSON with LONG HAIR a FEMALE ?? 
 1.probability of a person being female is 50% P(B)
 2.general probability of having long hair is 35% P(E)
-3.Female proability of long hair is 60% P(E|B) 
+3.females with long hair occur at a proability of 60% P(E|B) 
 */
