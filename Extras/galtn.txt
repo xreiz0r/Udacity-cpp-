@@ -15,6 +15,12 @@ London Metropolitan Area 10-18 million (number of residents depends on the defin
 TOTAL : 9.6 Million
 
 
+BAYES
+P(B|E) = P(E|B) * P(B)/P(E)
+/*?? Is that PERSON with LONG HAIR a FEMALE ?? 
+1.probability of a person being female is 50% P(B)
+2.general probability of having long hair is 35% P(E)
+3.females with long hair occur at a proability of 60% P(E|B) 
 
 FISHER
 -T distribution
@@ -28,16 +34,16 @@ PERSON
 -Correlation Coefficient
 -Principal Component Analysis
  
- Stat
+ Statis
  -Normal Error Distribution Curve
  -Bayes
  -Factoring
  -Primality testing
 
 
+[] Codecademy and rent GPU as a service
 [] Copacobana Whitepaper 
 [] DarkFirmware: systematic approach Whitepaper
-[] Codecademy and rent GPU as a service
 [] Functions can be measured in seconds or clockcycles
 [] C is most affective with recursive functions + dynamically allocated memory
 [] Recursion's use lies in permutations of an indefinite total ammount
