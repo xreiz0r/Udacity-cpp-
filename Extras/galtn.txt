@@ -40,7 +40,10 @@ PERSON
  -Factoring
  -Primality testing
 -Diatrix-
---
+-heigtsSTD-
+-WofDay-
+-ocr360-
+-voltmelt-
 
 
 [] Printers have their own language
