@@ -39,10 +39,14 @@ PERSON
  -Bayes
  -Factoring
  -Primality testing
+-Diatrix-
+--
+
 
 [] Printers have their own language
-[] device drivers port and microcontrollers
-[] National Cryptologic Museum Washington
+[] PABx, device drivers, ports, microcontrollers, challenge-response devs
+[] optical, cacitive, thermal, ultrasound sensrs
+[] NIST top ten misconfigs
 [] Codecademy and rent GPU as a service
 [] Copacobana Whitepaper 
 [] testdisk command recovery
@@ -59,15 +63,17 @@ PERSON
 [] ACAD: Keyboard Book 7 with Digital Content: Computer Science with Application Software (4th Edition) [ISBN 9789697341887]
 [] IMSI mobile and pinoutguide
 [] Vulnerability databases and hackdbox, UEFI vulns
-
+[] 
 
 
 System capabilities
+// exec commands, scripts, or binaries
 // check active and inactive processes
 // check uptime of processes
 // check available ports and unwritten caches
 // create or check for active drivers/modules
 // create hidden files
+// copy locked files
 // shred memory
 // find the location of a command
 // trace logs associated to a file/process
