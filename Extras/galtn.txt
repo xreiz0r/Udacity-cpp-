@@ -44,10 +44,11 @@ PERSON
 -WofDay-
 -ocr360-
 -voltmelt-
+-latios-
 
 
 [] Printers have their own language
-[] PABx, device drivers, ports, microcontrollers, challenge-response devs
+[] PABx, device drivers, ports, microcontrollers, challenge-response devs, pci
 [] optical, cacitive, thermal, ultrasound sensrs
 [] NIST top ten misconfigs
 [] Codecademy and rent GPU as a service
@@ -58,7 +59,7 @@ PERSON
 [] C is most affective with recursive functions + dynamically allocated memory
 [] Recursion's use lies in permutations of an indefinite total ammount
 [] C relies on fast bit operations, endless storage allocation, text analysis 
-[] C List types: Linked-list, Binary trees, Binary sort, Stack sort, Shuffle-sort, Hanoi, Int partition, Maze-run, Subsetsum
+[] C List types: Linked-list, Binary trees, Binary sort, Stack sort, Shuffle-sort, Logic games, Int partition, Maze-run, Subsetsum
 [] XOr is the fastest encipherment plus OSINT
 [] Error propagation on altered blocks but not on altered streams
 [] infeasable ammount of operations is defined as 2¹²⁸
@@ -66,10 +67,11 @@ PERSON
 [] ACAD: Keyboard Book 7 with Digital Content: Computer Science with Application Software (4th Edition) [ISBN 9789697341887]
 [] IMSI mobile and pinoutguide
 [] Vulnerability databases and hackdbox, UEFI vulns
-[] 
+
 
 
 System capabilities
+// weak misconfig and bugs
 // exec commands, scripts, or binaries
 // check active and inactive processes
 // check uptime of processes
@@ -77,13 +79,13 @@ System capabilities
 // create or check for active drivers/modules
 // create hidden files
 // copy locked files
-// shred memory
+// shred memory/files
 // find the location of a command
 // trace logs associated to a file/process
 // create link copy or normal copy
 // schedule command's start time
 // schedule a command's timeout
-// analyse Boot with exec times
+// analyse boot with exec times
 // create mountable virtual drive for faster exec
 // read deleted files based on offset
 // ftp to a website
