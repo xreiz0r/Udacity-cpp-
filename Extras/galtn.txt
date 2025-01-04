@@ -15,6 +15,13 @@ London Metropolitan Area 10-18 million (number of residents depends on the defin
 TOTAL : 9.6 Million
 
 
+STD ERROR
+mean = totalsum / quantity
+sqrtotal = (totalsum-mean)^2
+sample = quantity-1
+out = √(sqrtotal / sample)
+
+
 BAYES
 P(B|E) = P(E|B) * P(B)/P(E)
 /*?? Is that PERSON with LONG HAIR a FEMALE ?? 
