@@ -71,6 +71,7 @@ PERSON
 [] Error propagation on altered blocks but not on altered streams
 [] infeasable ammount of operations is defined as 2¹²⁸
 [] Finite fields arithmetic handles pseudo-random generators
+[] : Structure and Interpretation of Computer programs
 [] ACAD: Keyboard Book 7 with Digital Content: Computer Science with Application Software (4th Edition) [ISBN 9789697341887]
 [] IMSI mobile and pinoutguide
 [] Vulnerability databases and hackdbox, UEFI vulns
